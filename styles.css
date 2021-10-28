@@ -1,1 +1,30 @@
+body {
+    background-color: black;
+}
 
+h1 {
+    color: white;
+    font-size: 20px;
+}
+
+p {
+    color: green;
+    font-size: 12px;
+}
+
+.element1 {
+    border-width: 2px;
+    border-style: dotted;
+    height: 100px;
+    width: 100px;
+}
+
+ol {
+    color: white;
+    list-style-type: lower-latin;
+}
+
+ul {
+    color: white;
+    list-style-type: square;
+}
