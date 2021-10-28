@@ -13,11 +13,11 @@ p {
 }
 
 .element1 {
-    color: white;
     border-width: 2px;
     border-style: dotted;
     height: 100px;
     width: 100px;
+    color: white;
 }
 
 ol {
