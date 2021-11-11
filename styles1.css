@@ -16,10 +16,12 @@ img {
     border-radius: 7px;
     margin: 5px 10px;
     display: block;
+    width: fit-content;
 }
 
 figure {
     margin: 5px 10px;
     padding: 7px;
     display: block;
+    width: fit-content;
 }
