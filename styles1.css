@@ -11,3 +11,13 @@ p {
     border-radius: 4px;
     background-color: burlywood;
 }
+
+img {
+    border-radius: 7px;
+    margin: 5px 10px;
+}
+
+figure {
+    margin: 5px 10px;
+    padding: 7px;
+}
