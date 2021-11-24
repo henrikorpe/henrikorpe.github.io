@@ -40,10 +40,13 @@ section::after {
     clear: both;
 }
   
-
 footer {
     background-color: #777;
     padding: 10px;
     text-align: center;
     color: white;
+}
+  
+a:hover {
+    color: red;
 }
