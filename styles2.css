@@ -29,7 +29,7 @@ nav ul {
 article {
     float: right;
     padding: 20px;
-    width: 70%;
+    width: 65%;
     background-color: #f1f1f1;
     height: 300px;
     text-align: left;
@@ -51,3 +51,5 @@ footer {
 a:hover {
     color: red;
 }
+
+  
