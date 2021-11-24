@@ -10,13 +10,6 @@ header {
     color: white;
 }
 
-article {
-    float: left;
-    width: 30%;
-    background: #ccc;
-    padding: 20px;
-}
-
 nav {
     text-align: center;
     color:white;
@@ -24,13 +17,23 @@ nav {
     padding: 20px;
     
 }
+article {
+    float: left;
+    width: 30%;
+    background: #ccc;
+    padding: 20px;
+}
+
+article ul {
+    list-style-type: none;
+    padding: 0;
+}
 
 section {
     float: left;
     padding: 20px;
     width: 70%;
     background-color:grey;
-    text-align: center;
 }
 
 a:hover {
