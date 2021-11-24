@@ -12,18 +12,17 @@ header {
 
 nav {
     text-align: center;
-    color:white;
-    padding: 30px;
 }
 
 article {
-    float: left;
-    width: 30%;
-    height: auto;
+  float: left;
+  width: 30%;
+  height: auto;
+  background: #ccc;
+  padding: 20px;
 }
 
 nav ul {
-    float: left;
     text-align: left;
     list-style-type: none;
 }
@@ -35,7 +34,6 @@ section {
     width: 70%;
     background-color:whitesmoke;
     height: auto;
-    margin: 40px;
 }
 
 section::after {
