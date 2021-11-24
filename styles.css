@@ -6,6 +6,7 @@ body {
 }
 
 #header {
+    color: black;
     background-color: #666;
 }
 
@@ -14,6 +15,7 @@ body {
 }
 
 #section {
+    color: black;
     background-color: #666;
 }
 
@@ -32,7 +34,7 @@ p {
     border-style: dotted;
     height: 100px;
     width: 100px;
-    color: white;
+    color: black;
 }
 
 ol {
