@@ -35,6 +35,7 @@ body {
 h1 {
     color: black;
     font-size: 20px;
+    text-align: center;
 }
 
 h2 {
@@ -70,5 +71,9 @@ h2 {
 }
 
 p {
+    text-align: center;
+}
+
+a {
     text-align: center;
 }
