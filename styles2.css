@@ -11,7 +11,10 @@ header {
 }
 
 nav {
+    float: left;
     text-align: center;
+    padding: 20px;
+    
 }
 
 article {
