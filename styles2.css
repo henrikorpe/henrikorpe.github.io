@@ -5,14 +5,14 @@ body {
     margin-right: auto;
 }
 
-#header {
+header {
     color: black;
     background-color: #666;
     padding: 30px;
     text-align: center;
 }
 
-#nav {
+nav {
     align-items: center;
     align-content: center;
     color: black;
@@ -28,7 +28,7 @@ nav ul {
     padding: 0;
 }
 
-#section {
+section {
     align-content: center;
     align-items: center;
     float: left;
