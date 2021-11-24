@@ -1,1 +1,56 @@
+body {
+    background-color: whitesmoke;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
 
+#header {
+    color: black;
+    background-color: #666;
+    padding: 30px;
+}
+
+#nav {
+    float: left;
+    width: 30%;
+    color: black;
+    background-color: #666;
+    padding: 20px;
+    
+}
+
+#section {
+    float: left;
+    width: 70%;
+    color: black;
+    background-color: #666;
+}
+
+h1 {
+    color: black;
+    font-size: 20px;
+}
+
+h2 {
+    color: black;
+}
+
+p {
+    color: black;
+    font-size: 12px;
+}
+
+a:hover {
+    color: red;
+}
+
+ol {
+    color: white;
+    list-style-type: lower-latin;
+}
+
+ul {
+    color: white;
+    list-style-type: square;
+}
