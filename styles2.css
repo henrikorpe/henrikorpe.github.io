@@ -45,6 +45,7 @@ h1 {
 
 h2 {
     color: black;
+    text-align: center;
 }
 
 p {
@@ -71,10 +72,6 @@ footer {
     color:white;
     background-color: #666;
     padding: 10px;
-}
-
-h2 {
-    text-align: center;
 }
 
 p {
