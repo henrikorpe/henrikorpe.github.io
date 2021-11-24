@@ -39,7 +39,7 @@ section {
     width: 70%;
     background-color:whitesmoke;
     height: auto;
-    margin:auto;
+    margin: 40px;
 }
 
 section::after {
