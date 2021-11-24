@@ -14,6 +14,7 @@ nav {
     text-align: center;
     color:white;
     padding: 30px;
+    float: left;
     
 }
 
@@ -24,6 +25,7 @@ article {
 }
 
 nav ul {
+    float: left;
     text-align: left;
     list-style-type: none;
 }
