@@ -9,9 +9,12 @@ body {
     color: black;
     background-color: #666;
     padding: 30px;
+    text-align: center;
 }
 
 #nav {
+    align-items: center;
+    align-content: center;
     float: left;
     width: 30%;
     color: black;
@@ -21,6 +24,8 @@ body {
 }
 
 #section {
+    align-content: center;
+    align-items: center;
     float: left;
     width: 70%;
     color: black;
@@ -53,4 +58,9 @@ ol {
 ul {
     color: white;
     list-style-type: square;
+}
+
+footer {
+    align-items: center;
+    color: black;
 }
