@@ -13,15 +13,14 @@ header {
 }
 
 nav {
-    align-items: center;
-    align-content: center;
-    color: black;
+    text-align: center;
+    color:white;
     background-color: #666;
     padding: 20px;
     
 }
 
-nav ul {
+article {
     float: left;
     width: 30%;
     list-style-type: none;
@@ -33,49 +32,9 @@ section {
     padding: 20px;
     width: 70%;
     background-color:grey;
-}
-
-h1 {
-    color: black;
-    font-size: 20px;
     text-align: center;
-}
-
-h2 {
-    color: black;
-    text-align: center;
-}
-
-p {
-    color: black;
-    font-size: 12px;
 }
 
 a:hover {
     color: red;
-}
-
-ol {
-    color: white;
-    list-style-type: lower-latin;
-}
-
-ul {
-    color: white;
-    list-style-type: square;
-}
-
-footer {
-    text-align: center;
-    color:white;
-    background-color: #666;
-    padding: 10px;
-}
-
-p {
-    text-align: center;
-}
-
-a {
-    text-align: center;
 }
