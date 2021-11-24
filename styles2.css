@@ -15,12 +15,17 @@ body {
 #nav {
     align-items: center;
     align-content: center;
-    float: left;
-    width: 30%;
     color: black;
     background-color: #666;
     padding: 20px;
     
+}
+
+nav ul {
+    float: left;
+    width: 30%;
+    list-style-type: none;
+    padding: 0;
 }
 
 #section {
@@ -63,7 +68,9 @@ ul {
 
 footer {
     text-align: center;
-    color: black;
+    color:white;
+    background-color: #666;
+    padding: 10px;
 }
 
 h2 {
