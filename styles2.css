@@ -40,6 +40,12 @@ section {
     height: 300px;
 }
 
+section::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+  
 a:hover {
     color: red;
 }
