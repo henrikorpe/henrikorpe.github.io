@@ -32,14 +32,20 @@ nav ul {
 }
   
 article {
-    float: left;
+    float: right;
     padding: 20px;
     width: 70%;
     background-color: #f1f1f1;
     height: 300px;
     text-align: left;
 } 
-  
+
+section::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
 footer {
     background-color: #777;
     padding: 10px;
@@ -50,3 +56,4 @@ footer {
 a:hover {
     color: red;
 }
+
