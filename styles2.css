@@ -21,7 +21,7 @@ article {
     width: 30%;
     background: #ccc;
     padding: 20px;
-    height: 300px;
+    height: auto;
 }
 
 nav ul {
@@ -38,7 +38,7 @@ section {
     padding: 20px;
     width: 70%;
     background-color:whitesmoke;
-    height: 300px;
+    height: auto;
     margin:auto;
 }
 
