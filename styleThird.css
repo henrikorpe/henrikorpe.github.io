@@ -1,0 +1,156 @@
+
+input[type=text], select, textarea {
+    width: 100%; 
+    padding: 12px; 
+    border: 1px solid #ccc; 
+    border-radius: 4px; 
+    box-sizing: border-box; 
+    margin-top: 6px; 
+    margin-bottom: 16px; 
+    resize: vertical;
+}
+  
+
+input[type=submit] {
+    background-color: #ce7490;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+  
+input[type=submit]:hover {
+    background-color: #b74f72;
+}
+  
+.contactContainer {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+    width: 50%;
+}
+
+.locationInstagram {
+    display: flex;
+    background-color: #886951 ;
+    font-family:'Arapey';
+    font-size: 20px;
+    padding: 10px;
+}
+
+.mapLink {
+    color:#f7f2f5;
+    text-decoration: none;
+}
+
+.mapLink:hover {
+    color: #dbdbdd;
+}
+
+.pushLogo {
+    margin-left: auto;
+}
+
+.facebookLogo {
+    height: 20px;
+    width: 20px;
+    margin-left: -30%;
+}
+
+.mainPageLogo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 17%;
+    height: auto;
+    padding: 20px;
+}
+
+.imageContainer {
+    background-image: url(topPic.jpg);
+    background-size:cover;
+    background-position-x: center;
+    background-position-y: center;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.imageText{
+    transform: rotate(-5deg);
+    font-size: 65px;
+    color: #f7f2f5;
+    text-shadow: 2px 2px #5c5c5c;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-around; 
+    border-top: 1px ridge #b4b4b4; 
+    border-bottom: 1px ridge #b4b4b4; 
+    padding: 8px;
+    background-color:white;
+    position: -webkit-sticky;
+	position: sticky;
+	top: 0;
+}
+
+.nav > a {
+    font-family: 'Grand Hotel';
+    font-size: 24px;
+    text-decoration: none;
+    color: #5c5c5c;
+}
+
+.nav > .active {
+    font-family: 'Grand Hotel';
+    font-size: 24px;
+    text-decoration: none;
+    color:#886951 ;
+    border-top: 2px solid #886951 ;
+}
+
+.nav > a:hover {
+    font-family: 'Grand Hotel';
+    font-size: 24px;
+    text-decoration: none;
+    color: #886951 ;
+    border-top: 2px solid #886951 ;
+}
+
+body {
+    font-family: 'Adamina';
+}
+
+.brandsContainer {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    border-bottom: 1px solid lightgray;
+    border-bottom-left-radius: 10px;
+}
+
+h1 {
+    margin-left: 10%;
+    padding-right: 5%;
+}
+
+
+.newsletterContainer {
+    display: flex;
+    font-family:'Arapey';
+    font-size: 20px;
+    padding: 10px;
+}
+
+.paymentContainer > img {
+    width: 5%;
+    height: 5%;
+}
+
+footer {
+    margin-top: 20%;
+    margin-left: 5%;
+}
